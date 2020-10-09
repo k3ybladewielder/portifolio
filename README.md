@@ -2,9 +2,10 @@
 
 Data Science Portfolio
 
-[PT-BR] Hello World. Me chamo Alysson, sou Bacharel em Administração com MBA em Gestão de Negócios e Inteligência Competitiva, 
+[PT-BR] Hello World. Me chamo Alysson, sou Bacharel em Administração com MBA em Gestão de Negócios e Inteligência Competitiva. Possuo +5 anos de experiência no varejo incluído atividades de data analyis e business intelligence na área de vendas.
 
-Projetos
+Professional Skills: Excel, Power BI, Python, Google Data Studio
+Áreas de atuação: Negócios, marketing, vendas, operações.
 
-
-
+# Projetos
+[Em construção 🚧🏗]
