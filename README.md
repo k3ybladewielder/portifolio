@@ -14,12 +14,7 @@ Professional Skills: Excel, Power BI, Python, Google Data Studio Practice areas:
 
 Practice areas: Business, marketing, sales, operations.
 
-# Projetos
-<b>market_k</b><br>
-Tasks:<br>
-Análises sobre positivação de clientes ou clientes distintos:<br>
-Análises sobre vendas:<br>
-Análises usando machine learning<br>
-Market basket analysis: Por família; Por categoria; Por item;<br>
+# Projetos<br>
+* **Market K: [Análises sobre positivação de clientes (clientes distintos) e sobre vendas:**](https://github.com/k3ybladewielder/market_k/blob/main/market_k_eda.ipynb)
 
 [Em construção 🚧🏗]
