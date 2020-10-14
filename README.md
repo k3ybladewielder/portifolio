@@ -15,7 +15,7 @@ Professional Skills: Excel, Power BI, Python, Google Data Studio Practice areas:
 Practice areas: Business, marketing, sales, operations.
 
 # Projetos<br>
-* **Market K: [Análises sobre positivação de clientes (clientes distintos) e sobre vendas:](https://github.com/k3ybladewielder/market_k/blob/main/market_k_eda.ipynb)**<br>
-* **Market K: [Market Basket Analysis:](https://github.com/k3ybladewielder/market_k/blob/main/market_k_mba.ipynb)**<br>
+* **Market K: [Análises sobre positivação de clientes (clientes distintos) e sobre vendas](https://github.com/k3ybladewielder/market_k/blob/main/market_k_eda.ipynb)**<br>
+* **Market K: [Market Basket Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_mba.ipynb)**<br>
 
 [Em construção 🚧🏗]
