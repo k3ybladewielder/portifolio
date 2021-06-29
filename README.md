@@ -4,11 +4,11 @@
 
 ## Classification
 [Ifood Data Advenced Analytics Test](https://github.com/k3ybladewielder/ifood)
-* **EDA do dataset, verificação de outliers, dados faltantes;
-* **Descrição e segmentação de clientes;
-* **Social Analysis, Purchase Analysis, Frequency Analysis, Costumers with Dependents Analysis, Campaigns Analysis, Recency
-* **Time series forecast;
-* **Criação, modelagem e validação de modelo de classificação**<br>
+* **EDA do dataset, verificação de outliers, dados faltantes;**
+* **Descrição e segmentação de clientes;**
+* **Social Analysis, Purchase Analysis, Frequency Analysis, Costumers with Dependents Analysis, Campaigns Analysis, Recency**
+* **Time series forecast;**
+* **Criação, treinamento e validação de modelos de classificação**<br>
 
 
 ## Forecasting
