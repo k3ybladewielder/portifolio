@@ -5,3 +5,9 @@
 * **Ifood Data Advenced Analytics Test: [Ifood Data Advenced Analytics Test](https://github.com/k3ybladewielder/ifood)**<br>
 
 [Em construção 🚧🏗]
+
+## Regression
+
+## Classification
+
+## Forecasting
