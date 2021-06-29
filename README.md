@@ -6,6 +6,8 @@
 
 [Em construção 🚧🏗]
 
+## EDAs & Data viz
+
 ## Regression
 
 ## Classification
