@@ -1,7 +1,6 @@
 [![author](https://img.shields.io/badge/author-alysson_guimarães-red.svg)](https://www.linkedin.com/in/guimaraesalysson/)
 # Projetos<br>
 
-
 ## Classification
 **[Ifood Data Advenced Analytics Test](https://github.com/k3ybladewielder/ifood)**
 * **EDA do dataset, verificação de outliers, dados faltantes;**
@@ -11,7 +10,7 @@
 * **Criação, treinamento e validação de modelos de classificação**
 
 ## **Forecasting**
-
+[Em construção 🚧🏗]
 
 ## **EDAs & Data viz**
 **[Market K:](https://github.com/k3ybladewielder/market_k/blob/main/market_k_eda.ipynb)**
@@ -21,3 +20,4 @@
 * **Market basket analysis do dataset fictício Market K.**
 
 ## Regression
+[Em construção 🚧🏗]
