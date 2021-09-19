@@ -9,6 +9,11 @@
 * **Time series forecast;**
 * **Criação, treinamento e validação de modelos de classificação**
 
+<br>
+
+**[Bank Marketing](https://github.com/k3ybladewielder/bank_marketing)**
+* **Predizer quais clientes do banco adotariam o produto term deposit**
+
 ## **Forecasting**
 [Em construção 🚧🏗]
 
