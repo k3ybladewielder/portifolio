@@ -15,7 +15,7 @@
 * **Predizer quais clientes do banco adotariam o produto term deposit.**
 
 ## **Forecasting**
-* **[Monthly Beer Production Forecasting](https://github.com/k3ybladewielder/beer)**
+**[Monthly Beer Production Forecasting](https://github.com/k3ybladewielder/beer)**
 * **Forecast de produção mensal de cerveja.**
 
 ## **EDAs & Data viz**
