@@ -19,11 +19,7 @@
 * **Forecast de produção mensal de cerveja.**
 
 ## **EDAs & Data viz**
-**[Market K:](https://github.com/k3ybladewielder/market_k/blob/main/market_k_eda.ipynb)**
-* **Análises sobre indicadores de negócios**<br>
-
-**[Market Basket Analysis:](https://github.com/k3ybladewielder/market_k/blob/main/market_k_mba.ipynb)**
-* **Market basket analysis do dataset fictício Market K.**
+[Em construção 🚧🏗]
 
 ## Regression
 [Em construção 🚧🏗]
