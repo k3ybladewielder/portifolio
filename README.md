@@ -18,6 +18,9 @@
 **[Monthly Beer Production Forecasting](https://github.com/k3ybladewielder/beer)**
 * **Forecast de produção mensal de cerveja.**
 
+**[Rossmann Store Sales](https://github.com/k3ybladewielder/rossmann)**
+* **Forecast de vendas.**
+
 ## **EDAs & Data viz**
 [Em construção 🚧🏗]
 
