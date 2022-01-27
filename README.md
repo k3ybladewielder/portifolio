@@ -16,7 +16,7 @@
 
 <br>
 
-**[Cred Card Fraud Analysis]**(https://github.com/k3ybladewielder/credit)
+**[Cred Card Fraud Analysis](https://github.com/k3ybladewielder/credit)**
 
 * [Em construção 🚧🏗]
 
