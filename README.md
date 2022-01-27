@@ -14,15 +14,42 @@
 **[Bank Marketing](https://github.com/k3ybladewielder/bank_marketing)**
 * **Predizer quais clientes do banco adotariam o produto term deposit.**
 
+<br>
+
+**Cred Card Fraud Analysis**
+
+* [Em construção 🚧🏗]
+
+<br>
+
 ## **Forecasting**
 **[Monthly Beer Production Forecasting](https://github.com/k3ybladewielder/beer)**
 * **Forecast de produção mensal de cerveja.**
 
+<br>
+
 **[Rossmann Store Sales](https://github.com/k3ybladewielder/rossmann)**
-* **Forecast de vendas.**
+
+* [Em construção 🚧🏗]
+
+<br>
+
+**Store Sales - Time Series Forecasting**
+
+* [Em construção 🚧🏗]
+
+<br>
+
+**Store Item Demand Forecasting Challenge**
+
+* [Em construção 🚧🏗]
+
+<br>
 
 ## **EDAs & Data viz**
 [Em construção 🚧🏗]
+
+<br>
 
 ## Regression
 [Em construção 🚧🏗]
