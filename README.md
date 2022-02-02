@@ -13,6 +13,7 @@
 
 **[Bank Marketing](https://github.com/k3ybladewielder/bank_marketing)**
 * **Predizer quais clientes do banco adotariam o produto term deposit.**
+* **Com o XGBoost, 2444 clientes foram classificados como os que aceitariam o term deposit. Com um recall de 81% e uma acurácia de 88%.**
 
 <br>
 
