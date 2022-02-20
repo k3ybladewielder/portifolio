@@ -15,42 +15,9 @@
 * **Predizer quais clientes do banco adotariam o produto term deposit.**
 * **Com o XGBoost, 2444 clientes foram classificados como os que aceitariam o term deposit. Com um recall de 81% e uma acurácia de 88%.**
 
-<br>
 
-**[Cred Card Fraud Analysis](https://github.com/k3ybladewielder/credit)**
-
-* [Em construção 🚧🏗]
-
-<br>
+# Estudos<br>
 
 ## **Forecasting**
 **[Monthly Beer Production Forecasting](https://github.com/k3ybladewielder/beer)**
 * **Forecast de produção mensal de cerveja.**
-
-<br>
-
-**[Rossmann Store Sales](https://github.com/k3ybladewielder/rossmann)**
-
-* [Em construção 🚧🏗]
-
-<br>
-
-**Store Sales - Time Series Forecasting**
-
-* [Em construção 🚧🏗]
-
-<br>
-
-**Store Item Demand Forecasting Challenge**
-
-* [Em construção 🚧🏗]
-
-<br>
-
-## **EDAs & Data viz**
-[Em construção 🚧🏗]
-
-<br>
-
-## Regression
-[Em construção 🚧🏗]
