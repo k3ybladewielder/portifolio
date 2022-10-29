@@ -19,7 +19,7 @@
 # Estudos<br>
 
 ## **Teoria**
-* **Estudo de álgebra linear, cálculo, estatística e probabilidade 
+* **Estudo de álgebra linear, cálculo, estatística e probabilidade**
 
 ## **Forecasting**
 **[Monthly Beer Production Forecasting](https://github.com/k3ybladewielder/beer)**
