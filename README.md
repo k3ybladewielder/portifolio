@@ -18,7 +18,7 @@
 
 # Estudos<br>
 
-## **Teoria**
+## **Tópicos Avançados**(https://github.com/k3ybladewielder/ds_studies)
 * **Estudo de álgebra linear, cálculo, estatística e probabilidade**
 
 ## **Forecasting**
