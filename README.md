@@ -28,7 +28,7 @@
 
 # Estudos<br>
 * Estatística
-* [**Estudo de álgebra linear**](https://github.com/k3ybladewielder/ds_studies)
+* [**Álgebra Linear**](https://github.com/k3ybladewielder/ds_studies)
 * Calculo
 * Otimização
 
