@@ -15,6 +15,7 @@
 
 ## Classification
 * Projeto A
+* [Sigmageek](https://github.com/k3ybladewielder/sigmageek)
 * [Ifood Data Advenced Analytics Test](https://github.com/k3ybladewielder/ifood)
 * [Bank Marketing](https://github.com/k3ybladewielder/bank_marketing)
 
