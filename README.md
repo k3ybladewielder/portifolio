@@ -18,7 +18,7 @@
 ## **Forecasting**
 * [Monthly Beer Production Forecasting](https://github.com/k3ybladewielder/beer)
 * [Rossman](https://github.com/k3ybladewielder/rossmann)
-* [Olist]
+* [Olist](https://github.com/k3ybladewielder/olist)
 
 ## **RecSys**
 * [Olist](https://github.com/k3ybladewielder/olist)
