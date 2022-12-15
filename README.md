@@ -29,14 +29,16 @@
 * Projeto B
 * Projeto C
 
-## **RecSys
+## **RecSys**
 * [Olist](https://github.com/k3ybladewielder/olist)
 
-# Estudos<br>
+# **Estudos**
 * Estatística
 * [**Álgebra Linear**](https://github.com/k3ybladewielder/ds_studies)
 * Calculo
 * Otimização
+
+# **MLOPS**
 
 
 
