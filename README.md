@@ -23,6 +23,9 @@
 ## **RecSys**
 * [Olist](https://github.com/k3ybladewielder/olist)
 
+## **EDA**
+* [EDANE](https://github.com/k3ybladewielder/enade)
+
 # **Estudos**
 * Estatística
 * [**Álgebra Linear**](https://github.com/k3ybladewielder/ds_studies)
