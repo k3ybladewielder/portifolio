@@ -24,7 +24,7 @@
 * [Olist](https://github.com/k3ybladewielder/olist)
 
 ## **EDA**
-* [EDANE](https://github.com/k3ybladewielder/enade)
+* [ENADE](https://github.com/k3ybladewielder/enade)
 
 # **Estudos**
 * Estatística
