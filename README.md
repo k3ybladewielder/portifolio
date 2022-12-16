@@ -7,6 +7,7 @@
 * [Olist](https://github.com/k3ybladewielder/olist)
 
 ## Clustering
+* [Projeto A](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work)
 
 ## Classification
 * Projeto A
