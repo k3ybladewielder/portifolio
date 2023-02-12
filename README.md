@@ -1,6 +1,9 @@
 [![author](https://img.shields.io/badge/author-alysson_guimarães-red.svg)](https://www.linkedin.com/in/guimaraesalysson/)
 # Projetos 🧑🏽‍🔬
 
+## NLP
+* [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
+
 ## Classification
 * [**Ifood Data Advenced Analytics Test**](https://github.com/k3ybladewielder/ifood)
 * [**Bank Marketing**](https://github.com/k3ybladewielder/bank_marketing)
