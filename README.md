@@ -12,6 +12,7 @@
 * [**Monthly Beer Production Forecasting**](https://github.com/k3ybladewielder/beer)
 
 # **Artigos (Medium)** 📚
+* [**Inteligência Competitiva com Topic Modelling**](https://k3ybladewielder.medium.com/p-c6ea855f97b)
 * [**Técnicas de Topic Modelling**](https://k3ybladewielder.medium.com/topic-modelling-682f74fc5e63)
 * [**Conceitos de NLP**](https://k3ybladewielder.medium.com/conceitos-e-m%C3%A9todos-de-nlp-3d20711d7474)
 * [**Introdução à NLP**](https://k3ybladewielder.medium.com/introdu%C3%A7%C3%A3o-%C3%A0-nlp-4d7d98b9a36a)
