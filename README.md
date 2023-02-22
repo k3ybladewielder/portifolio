@@ -25,7 +25,7 @@
 
 # **Estudos** 📑
 * [**Mathematics for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds)
-* [**Manual Prático do Deep Learninig**(https://github.com/k3ybladewielder/mpdl)
+* [**Manual Prático do Deep Learninig**](https://github.com/k3ybladewielder/mpdl)
 * [**Álgebra Linear e Otimização para Machine Learning**](https://github.com/k3ybladewielder/ds_studies)
 * [**Bootcamp do IGTI de Analista de Machine Learning**](https://github.com/k3ybladewielder/bootcamp_igti_ml)
 
