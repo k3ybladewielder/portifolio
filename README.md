@@ -24,6 +24,7 @@
 * [**Seleção de Features com Recursive Feature Elimination (RFE)**](https://k3ybladewielder.medium.com/p-5effad69590b)
 
 # **Estudos** 📑
+* [**Python Developer](https://github.com/k3ybladewielder/python-developer)
 * [**Mathematics for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds)
 * [**Manual Prático do Deep Learninig**](https://github.com/k3ybladewielder/mpdl)
 * [**Álgebra Linear e Otimização para Machine Learning**](https://github.com/k3ybladewielder/ds_studies)
