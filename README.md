@@ -1,17 +1,8 @@
 [![author](https://img.shields.io/badge/author-alysson_guimarães-red.svg)](https://www.linkedin.com/in/guimaraesalysson/)
-# Projetos 🧑🏽‍🔬
+### Projetos 🧑🏽‍🔬
+* [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector) (NLP)
 
-## NLP
-* [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
-
-## Classification
-* [**Ifood Data Advenced Analytics Test**](https://github.com/k3ybladewielder/ifood)
-* [**Bank Marketing**](https://github.com/k3ybladewielder/bank_marketing)
-
-## **Forecasting**
-* [**Monthly Beer Production Forecasting**](https://github.com/k3ybladewielder/beer)
-
-# **Artigos (Medium)** 📚
+### **Artigos (Medium)** 📚
 * [**Inteligência Competitiva com Topic Modelling**](https://k3ybladewielder.medium.com/p-c6ea855f97b)
 * [**Técnicas de Topic Modelling**](https://k3ybladewielder.medium.com/topic-modelling-682f74fc5e63)
 * [**Conceitos de NLP**](https://k3ybladewielder.medium.com/conceitos-e-m%C3%A9todos-de-nlp-3d20711d7474)
@@ -23,10 +14,15 @@
 * [**Entendendo CatBoost: Um guia (quase) definitivo**](https://medium.com/data-hackers/p-b28bc153a78)
 * [**Seleção de Features com Recursive Feature Elimination (RFE)**](https://k3ybladewielder.medium.com/p-5effad69590b)
 
-# **Estudos** 📑
+### **Estudos** 📑
 * [**Python Developer**](https://github.com/k3ybladewielder/python-developer)
 * [**Mathematics for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds)
 * [**Manual Prático do Deep Learninig**](https://github.com/k3ybladewielder/mpdl)
 * [**Álgebra Linear e Otimização para Machine Learning**](https://github.com/k3ybladewielder/ds_studies)
 * [**Bootcamp do IGTI de Analista de Machine Learning**](https://github.com/k3ybladewielder/bootcamp_igti_ml)
+
+### Projetos (Estudo) 
+* [**Ifood Data Advenced Analytics Test**](https://github.com/k3ybladewielder/ifood) (Classification)
+* [**Bank Marketing**](https://github.com/k3ybladewielder/bank_marketing) (Classification)
+* [**Monthly Beer Production Forecasting**](https://github.com/k3ybladewielder/beer) (Forecasting)
 
